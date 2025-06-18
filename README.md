@@ -27,7 +27,7 @@ Built a real-time HR system with employee lifecycle management, leave tracking, 
 🔹 **[AI-Powered Chatbot Support System](https://github.com/munirdevs/ai-chatbot-support)**  
 Customer support chatbot using intent detection and fallback routing. React frontend + Python backend.
 
-🔹 **[My Developer Portfolio Website](https://github.com/munirdevs/munirdevs-portfolio)**  
+🔹 **[My Developer Portfolio Website](https://codewithmunir.com)**  
 A modern, responsive portfolio built in React and TailwindCSS. Showcases skills, projects, and resume.
 
 ---
