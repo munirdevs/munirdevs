@@ -24,7 +24,7 @@
 🔹 **[Enterprise HR Portal (.NET + React)](https://github.com/munirdevs/enterprise-hr-portal)**  
 Built a real-time HR system with employee lifecycle management, leave tracking, and performance dashboards.
 
-🔹 **[AI-Powered Chatbot Support System](https://github.com/munirdevs/ai-chatbot-support)**  
+🔹 **[AI-Powered Chatbot Support System](https://chatbot.codewithmunir.com)**  
 Customer support chatbot using intent detection and fallback routing. React frontend + Python backend.
 
 🔹 **[My Developer Portfolio Website](https://codewithmunir.com)**  
@@ -37,7 +37,7 @@ A modern, responsive portfolio built in React and TailwindCSS. Showcases skills,
 📄 [Download My CV](https://codewithmunir.com/munir-ahmad-software-engineer-cv.pdf)  
 🔗 [LinkedIn](https://www.linkedin.com/in/munir-ahmad/)  
 📧 munirdevs@gmail.com  
-🌐 [Live Portfolio](https://munirdevs.netlify.app)
+🌐 [Live Portfolio](https://codewithmunir.com)
 
 ---
 
