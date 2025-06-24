@@ -36,6 +36,7 @@ A modern, responsive portfolio built in React and TailwindCSS. Showcases skills,
 
 📄 [Download My CV](https://codewithmunir.com/munir-ahmad-software-engineer-cv.pdf)  
 🔗 [LinkedIn](https://www.linkedin.com/in/munir-ahmad/)  
+🤗 [Huggingface](https://huggingface.co/munirdevs) 
 📧 munirdevs@gmail.com  
 🌐 [Live Portfolio](https://codewithmunir.com)
 
